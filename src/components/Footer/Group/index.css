@@ -1,0 +1,79 @@
+.Group_main {
+  position: absolute;
+  width: 408px;
+  height: 47px;
+  top: 13px;
+  right: 256px;
+  bottom: 63px;
+  left: 26px ;
+  z-index: 0;
+}
+.Group_item1 {
+  width: 26px;
+  height: 30px;
+  position: absolute;
+  top: 24px;
+  right: 618px;
+  botton: 69px;
+  left: 46px;
+}
+.Group_item2 {
+  width: 25px;
+  height: 27px;
+  position: absolute;
+  top: 24px;
+  right: 481px;
+  botton: 72px;
+  left: 184px;
+}
+.Group_item3 {
+  width: 26px;
+  height: 28px;
+  position: absolute;
+  top: 25px;
+  right: 340px;
+  botton: 70px;
+  left: 324px;
+}
+.Group_item1_text {
+  width: 49px;
+  height: 18px;
+  line-height: 18px;
+  font-size: 20px;
+  font-family: -apple-system, sans-serif;
+  font-weight: normal;
+  color: #6495f5;
+  position: absolute;
+  top: 28px;
+  right: 552px;
+  botton: 77px;
+  left: 89px;
+}
+.Group_item2_text {
+  width: 49px;
+  height: 18px;
+  line-height: 18px;
+  font-size: 20px;
+  font-family: -apple-system, sans-serif;
+  font-weight: normal;
+  color: #7d7d7d;
+  position: absolute;
+  top: 28px;
+  right: 411px;
+  botton: 77px;
+  left: 227px;
+}
+.Group_item3_text {
+  width: 49px;
+  height: 18px;
+  line-height: 18px;
+  font-size: 20px;
+  font-family: -apple-system, sans-serif;
+  font-weight: normal;
+  color: #7d7d7d;
+  position: absolute;
+  top: 28px;
+  right: 276px;
+  botton: 77px;
+  left: 362px;
+}
